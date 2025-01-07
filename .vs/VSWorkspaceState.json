@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\website"
+    "\\website",
+    "\\website\\templates"
   ],
-  "SelectedNode": "\\website\\models.py",
+  "SelectedNode": "\\website\\templates\\home.html",
   "PreviewInSolutionExplorer": false
 }
